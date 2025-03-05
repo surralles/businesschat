@@ -1,3 +1,4 @@
-langchain
-langchain-ollama
-ollama
+#langchain
+#langchain-ollama
+#ollama
+requests
