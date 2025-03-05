@@ -5,7 +5,7 @@ from negocio_info import store_data
 # URL de la API de Ollama en Fly.io (reemplázala con la tuya)
 OLLAMA_API_URL = "https://mi-ollama-server.fly.dev"
 
-st.title("🧞‍♀️Tu asistente en Algorithmics")
+st.title("🧞‍♀️Tu ayudante en Algorithmics")
 
 # Inicializar variables de sesión
 if "messages" not in st.session_state:
